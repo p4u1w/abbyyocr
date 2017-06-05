@@ -1,6 +1,6 @@
 'use strict'
 
-const request = require("request")
+const request = require('request')
 const fs = require('fs')
 const S3 = require('s3')
 const xml2js = require('xml2js')
